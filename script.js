@@ -10,7 +10,7 @@
 	document.write('The surface area is ' + surfaceArea);
 	document.write('The volume is ' + volume);
 	
-	var radius = 6378000;
+	var radius = 6378e6;
 	
 </script>
 
